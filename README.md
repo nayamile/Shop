@@ -12,7 +12,7 @@ GitHub Desktop, Visual Studio або ж вивантаження репозит�
 Також ви можете склонувати цей проєкт за допомогою виконання команди у терміналі
 
 ```bash
-git clone https://github.com/nayamile/
+git clone https://github.com/nayamile/Shop.git
 ```
 
 <br>
