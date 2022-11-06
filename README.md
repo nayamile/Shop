@@ -69,7 +69,7 @@ npm run dev
 You can also clone this project by running a command in the terminal
 
 ```bash
-git clone https://github.com/nayamile/
+git clone https://github.com/nayamile/Shop.git
 ```
 
 <br>
